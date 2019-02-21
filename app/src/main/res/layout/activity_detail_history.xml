@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".DetailHistoryActivity">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/history_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@mipmap/ic_launcher_background"
+        app:titleTextColor="@android:color/white"
+        android:elevation="4dp"
+        android:theme="@style/ToolbarTheme"
+        />
+
+    <ScrollView
+        android:id="@+id/mScrollView"
+        android:scrollbars="none"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:padding="@dimen/activity_horizontal_margin">
+
+            <LinearLayout
+                android:id="@+id/history_1"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/activity_horizontal_margin">
+
+                <TextView
+                    android:id="@+id/tv_historytitle_1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    style="@style/detail_teams_history"
+                    android:text="@string/history_title_1"
+                    android:layout_marginBottom="@dimen/activity_horizontal_margin"/>
+
+                <ImageView
+                    android:id="@+id/img_history_1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/history_1"
+                    android:adjustViewBounds="true"
+                    android:layout_marginBottom="@dimen/activity_horizontal_margin"
+                    />
+
+                <TextView
+                    android:id="@+id/tv_historydesc_1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    style="@style/description"
+                    android:text="@string/history_desc_1"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/history_2"
+                android:orientation="vertical"
+                android:layout_below="@id/history_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/activity_horizontal_margin">
+
+                <TextView
+                    android:id="@+id/tv_historytitle_2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    style="@style/detail_teams_history"
+                    android:text="@string/history_title_2"
+                    android:layout_marginBottom="@dimen/activity_horizontal_margin"/>
+
+                <ImageView
+                    android:id="@+id/img_history_2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/history_2"
+                    android:adjustViewBounds="true"
+                    android:layout_marginBottom="@dimen/activity_horizontal_margin"
+                    />
+
+                <TextView
+                    android:id="@+id/tv_historydesc_2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    style="@style/description"
+                    android:text="@string/history_desc_2"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/history_3"
+                android:orientation="vertical"
+                android:layout_below="@id/history_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/activity_horizontal_margin">
+
+                <TextView
+                    android:id="@+id/tv_historytitle_3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    style="@style/detail_teams_history"
+                    android:text="@string/history_title_3"
+                    android:layout_marginBottom="@dimen/activity_horizontal_margin"/>
+
+                <ImageView
+                    android:id="@+id/img_history_3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/history_3"
+                    android:adjustViewBounds="true"
+                    android:layout_marginBottom="@dimen/activity_horizontal_margin"
+                    />
+
+                <TextView
+                    android:id="@+id/tv_historydesc_3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    style="@style/description"
+                    android:text="@string/history_desc_3"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/history_4"
+                android:orientation="vertical"
+                android:layout_below="@id/history_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/activity_horizontal_margin">
+
+                <TextView
+                    android:id="@+id/tv_historytitle_4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    style="@style/detail_teams_history"
+                    android:text="@string/history_title_4"
+                    android:layout_marginBottom="@dimen/activity_horizontal_margin"/>
+
+                <ImageView
+                    android:id="@+id/img_history_4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/history_4"
+                    android:adjustViewBounds="true"
+                    android:layout_marginBottom="@dimen/activity_horizontal_margin"
+                    />
+
+                <TextView
+                    android:id="@+id/tv_historydesc_4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    style="@style/description"
+                    android:text="@string/history_desc_4"/>
+
+            </LinearLayout>
+        </RelativeLayout>
+
+    </ScrollView>
+
+
+
+</LinearLayout>

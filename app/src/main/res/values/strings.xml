@@ -1,0 +1,485 @@
+<resources>
+    <string name="app_name">Timeout</string>
+    <string name="title_activity_parent">ParentActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello">Hello</string>
+    <string name="news_title_one">Report: Carmelo Anthony, Houston Rockets To Part Ways</string>
+    <string name="news_title_two">Clippers Edge Spurs For 3rd-Straight Victory</string>
+    <string name="news_title_three">Draymond Green Remains Faithful In Warriors</string>
+    <string name="news_title_four">Middleton, Brogdon out tonight with injuries</string>
+    <string name="news_title_five">Nets officially sign Spencer Dinwiddie to extension</string>
+    <string name="upload_title_one">1 hour ago</string>
+    <string name="upload_title_two">2 hour ago</string>
+    <string name="upload_title_three">1 hour ago</string>
+    <string name="upload_title_four">3 hour ago</string>
+    <string name="upload_title_five">2 hour ago</string>
+    <string name="description_one">
+        After just 10 games, Carmelo Anthony and the Houston Rockets have decided it wasn’t a good fit. According to ESPN’s Adrian Wojnarowki, Anthony will part ways with the Rockets, though there are no immediate plans to place the 10-time All-Star of waivers.
+    Houston Rockets GM Daryl Morey issued a statement on forward Carmelo Anthony’s future with the team.
+
+        “After much internal discussion, the Rockets will be parting ways with Carmelo Anthony and we are working toward a resolution,” said Morey.  “Carmelo had a tremendous approach during his time with the Rockets and accepted every role head coach Mike D’Antoni gave him. The fit we envisioned when Carmelo chose to sign with the Rockets has not materialized, therefore we thought it was best to move on as any other outcome would have been unfair to him.”
+    Anthony was originally the third overall pick by Denver in the 2003 NBA Draft and is a 10-time All-Star.  He is one of 11 players in NBA history with career averages of at least 24.0 points, 6.0 rebounds, and 3.0 assists.  Anthony is also a three-time Olympic gold medalist and is USA Basketball’s all-time leading Olympic scorer and rebounder.
+    Anthony chose to be a supporting part of Houston’s championship aspirations over opportunities to play a more prominent role elsewhere.
+    </string>
+    <string name="description_two">
+        LOS ANGELES (AP) Lou Williams hit a go-ahead 3-pointer with 40 seconds remaining and the Los Angeles Clippers beat the San Antonio Spurs 116-111 on Thursday night for their first three-game winning streak of the season. The Clippers improved to 7-1 at home after blowing leads of 14 points in the second quarter and 10 in the fourth. The Spurs were the third high-powered team in a row beaten by the Clippers, who edged Milwaukee and defending NBA champion Golden State in a pair of overtime wins. Williams led Los Angeles with 23 points off the bench. Danilo Gallinari added 19 points and Tobias Harris 18. Montrezl Harrell stole the ball from DeMar DeRozan in the corner and Gallinari got fouled at the other end. He made four straight free throws and Williams hit two to seal the win. DeRozan scored 34 points for the Spurs, who dropped their third in a row. Rudy Gay added 19 points off the bench.
+    The Spurs tied it up 107-all on a pair of free throws by LaMarcus Aldridge, who had 16 rebounds. Williams pump-faked Bryn Forbes and let fly a 3, having missed his two other attempts in the game. DeRozan scored on a drive to get the Spurs to 110-109, but they got no closer.
+       \n  Harrell scored the Clippers’ first six points of the fourth to get them back to a double-digit lead, 96-86.
+    DeRozan missed two free throws before Patty Mills and Marco Belinelli hit back-to-back 3-pointers that closed the Spurs to 96-94.
+    San Antonio got within one early in the third on basket by DeRozan. He twice scored to put them within two. But every time the Clippers answered to stay ahead, with their second unit scoring 10 of their final 12 points for a 91-84 lead after three.
+    The Clippers opened the second quarter with a 15-2 run that produced their largest lead of 44-30. Harrell scored seven in a row.
+    The Spurs answered with a 23-8 spurt, including 10 by DeRozan, to erase their 14-point deficit and give them a 53-52 lead. The Clippers got a pair of free throws by Gallinari to lead 61-60 going into halftime.
+    TIP-INS
+        Spurs: They fell to 2-5 on the road. … They were outrebounded 50-45. … F-C Pau Gasol missed his fifth straight game with a sore left foot.
+    Clippers: Harris has at least 15 points in a career-best 14 straight games. They improved to 5-1 in their last six games at home against the Spurs.</string>
+    <string name="description_three">Golden State Warriors forward Draymond Green says the recent spat he and teammate Kevin Durant had doesn’t mean the sky is falling for the team at large.
+    “What happened a few nights ago, Kevin and I spoke. We’re moving forward,” Green said at Thursday afternoon’s shootaround. “There’s no secret that I am an emotional player. I wear my emotions on my sleeve, I play with that same emotion. Sometimes they get the best of me and it doesn’t work in my favor. I’m going to live with that because it works in my favor to the good — as my resume speaks and this team’s resume speaks — moreso than it doesn’t. So, I’m never going to change who I am.
+    “I’ve read a lot about how ‘is this the end of the run? Or ‘Is it over?’ Or ‘did I force Kevin to leave?’ … What you must know, nobody in this organization, from a player — not myself, not Kevin not anybody else — is going to beat us. If you’re one of them 29 other teams in this league, you’ve got to beat us. We’re not going to beat us. We’re going to continue to do what we do. I’m sorry if that ruins everybody’s stories.”
+    Green was suspended Tuesday for one game without pay for conduct detrimental to the team following an altercation a night earlier with Durant, though general manager Bob Myers declined to offer specifics on the All-Star forward’s behavior that was considered going too far. Myers and coach Steve Kerr collaborated on the decision.
+    Durant had not yet addressed the media Thursday, but he and Green were photographed on social media both entering shootaround together as well as shooting together on the same side of the court.
+    In the closing seconds of regulation during Monday’s 121-116 overtime loss on the road to the Clippers, Green secured a rebound and, with Durant calling for the ball, instead dribbled the length of the court into traffic and lost control as the Warriors failed to get a shot off. Durant was shown on camera visibly upset immediately afterward.
+    Then, back on the bench waiting for the extra period to begin, the two traded words and gestured with Klay Thompson seated between them and Andre Iguodala, DeMarcus Cousins and others trying to calm the situation.
+    Kerr said on Thursday he has faith that this disruption will not stop the Warriors from their bigger goals for the season.
+    “We met in the locker room before practice and went through our usual gameday routine,” Kerr said. “We addressed some things that will remain private. I know Kevin and Draymond have spoken. That’s as much as I’m going to reveal. I can tell you that I am extremely confident in this team’s ability to get through any adversity.
+    “I know what this team is made of … I know the character of the group. I know the history of this group. It’s way too strong and way too powerful to be upended by the type of adversity that may hit any team in the season.”
+    Green remained steadfast as well that this incident is not enough to shake the Warriors from their moorings
+    “If this only makes Kevin, myself and the rest of my teammates stronger, that’s what it’s going to do,” Green said. “You think you saw something before, good luck with us now. We’re not going to crumble off of an argument. We’re going to move forward. That’s all I’ve got to say.”
+    </string>
+    <string name="description_four">
+    CLEVELAND (AP)  -- Khris Middleton and Malcolm Brogdon, the second and fourth leading scorers for the Milwaukee Bucks, are out against the Cleveland Cavaliers.
+
+Middleton has a sprained right finger and Brogdon a sore left hamstring. Neither will play Friday night in the second matchup between the teams this week.
+
+Middleton is averaging 17.4 points, but is 16 of 47 from the field in the last four games. Brogdon is averaging 15.3 points and is shooting 52 percent from the field. He\'\s made 47 percent of his 3-point attempts.
+
+Milwaukee coach Mike Budenholzer declined to say who would start in place of the injured players during his pregame meeting with the media.
+
+Giannis Antetokounmpo didn't play because of a sore neck Monday when the Bucks defeated the Cavaliers 108-92 in Milwaukee. He returned in Wednesday's 113-97 loss to Indiana but scored a season-low 12 points.
+    </string>
+    <string name="description_five">
+    BROOKLYN -- The Brooklyn Nets have signed guard Spencer Dinwiddie to a multi-year contract extension. Per team policy, terms of the deal were not released.
+
+Dinwiddie, who originally signed with the Nets out of the NBA G League on Dec. 8, 2016, has appeared in all 29 games this season for the Nets, recording career-best averages of 16.9 points on 47.4 percent shooting from the field, along with 4.9 assists and 2.5 rebounds in 28.7 minutes per game. Dinwiddie ranks second among all NBA reserves this season in points, assists and 3-pointers made, third in free throws made and fourth in free throws attempted. In Wednesday night’s victory over the Philadelphia 76ers, Dinwiddie scored a career-high 39 points, representing the most points scored by a player off the bench in a game this season and the most points scored by a Net off the bench in a game in 38 years.
+
+The 25-year-old finished third in the voting for the NBA’s Most Improved Player award last season after a breakout campaign that saw him dramatically increase his points per game and assists per game from the previous season, in addition to leading the league in assist-to-turnover ratio. He also captured the 2018 Taco Bell Skills Challenge title at NBA All-Star Weekend, becoming the first Net to win the skills challenge since Jason Kidd, who secured the title in the inaugural competition in 2003.
+
+Dinwiddie was originally selected with the 38th overall pick (second round) in the 2014 NBA Draft by the Detroit Pistons. In 214 career games over five seasons with Brooklyn and Detroit, he’s registered averages of 10.0 points, 4.6 assists and 2.6 rebounds in 23.8 minutes per contest.
+    </string>
+
+    <!-- TEAM NAME -->
+
+    <string name="atlanta_hawks">Atlanta Hawks</string>
+    <string name="boston_celtics">Boston Celtics</string>
+    <string name="brooklyn_nets">Brooklyn Nets</string>
+    <string name="charlotte_hornets">Charlotte Hornets</string>
+    <string name="chicago_bulls">Chicago Bulls</string>
+    <string name="cleveland_cavaliers">Cleveland Cavaliers</string>
+    <string name="dallas_mavericks">Dallas Mavericks</string>
+    <string name="denver_nuggets">Denver Nuggets</string>
+    <string name="detroit_pistons">Detroit Pistons</string>
+    <string name="goldenstate_warriors">Golden State Warriors</string>
+    <string name="houston_rockets">Houston Rockets</string>
+    <string name="indiana_pacers">Indiana Pacers</string>
+    <string name="losangeles_clippers">Los Angeles Clippers</string>
+    <string name="losangeles_lakers">Los Angeles Lakers</string>
+    <string name="memphis_grizzlies">Memphis Grizzlies</string>
+    <string name="miami_heat">Miami Heat</string>
+    <string name="milwaukee_bucks">Milwaukee Bucks</string>
+    <string name="minnesota_timberwolves">Minnesota Timberwolves</string>
+    <string name="neworleans_pelicans">New Orleans Pelicans</string>
+    <string name="newyork_knicks">New York Knicks</string>
+    <string name="oklahomacity_thunder">Oklahoma City Thunder</string>
+    <string name="orlando_magic">Orlando Magic</string>
+    <string name="philadelphia_76ers">Philadelphia 76ers</string>
+    <string name="phoenix_suns">Phoenix Suns</string>
+    <string name="portland_trailblazers">Portland Trailblazers</string>
+    <string name="sacramento_kings">Sacramento Kings</string>
+    <string name="sanantonio_spurs">San Antonio Spurs</string>
+    <string name="toronto_raptors">Toronto Raptors</string>
+    <string name="utah_jazz">Utah Jazz</string>
+    <string name="washington_wizards">Washington Wizards</string>
+
+    <!-- END OF TEAM NAME -->
+
+    <!-- TEAM INFO -->
+
+    <string name="atlanta_date">1946</string>
+    <string name="lloyd_pierce">Lloyd Pierce</string>
+    <string name="atlanta_stadium">State Farm Arena - Atlanta, GA</string>
+
+    <string name="boston_date">1946</string>
+    <string name="boston_coach">Brad Stevens</string>
+    <string name="boston_stadium">TD Garden - Boston,MA</string>
+
+    <string name="nets_date">1967</string>
+    <string name="nets_coach">Kenny Atkinson</string>
+    <string name="nets_stadium">Barclays Center - Brooklyn,NY</string>
+
+    <string name="hornets_date">1988</string>
+    <string name="hornets_coach">James Borrego</string>
+    <string name="hornets_stadium">Spectrum Center - Charlotte,NC</string>
+
+    <string name="bulls_date">1966</string>
+    <string name="bulls_coach">Fred Hoiberg</string>
+    <string name="bulls_stadium">United Center - Chicago,IL</string>
+
+    <string name="cavs_date">1970</string>
+    <string name="cavs_coach">Tyronn Lue</string>
+    <string name="cavs_stadium">Quicken Loans Arena - Cleveland,OH</string>
+
+    <string name="mavs_date">1980</string>
+    <string name="mavs_coach">Rick Carlisle</string>
+    <string name="mavs_stadium">American Airlines Center - Dallas,TX</string>
+
+    <string name="nuggets_date">1967</string>
+    <string name="nuggets_coach">Michael Malone</string>
+    <string name="nuggets_stadium">Pepsi Center - Denver,CO</string>
+
+    <string name="pistons_date">1941</string>
+    <string name="pistons_coach">Dwane Casey</string>
+    <string name="pistons_stadium">Little Caesars Arena - Detroit,MI</string>
+
+    <string name="warriors_date">1946</string>
+    <string name="warriors_coach">Steve Kerr</string>
+    <string name="warriors_stadium">ORACLE Arena - Oakland,CA</string>
+
+    <string name="rockets_date">1967</string>
+    <string name="rockets_coach">Mike D Antoni</string>
+    <string name="rockets_stadium">Toyota Center - Houston,TX</string>
+
+    <string name="pacers_date">1967</string>
+    <string name="pacers_coach">Nate McMillan</string>
+    <string name="pacers_stadium">Bankers Life Fieldhouse - Indianopolis,IN</string>
+
+    <string name="clippers_date">1970</string>
+    <string name="clippers_coach">Doc Rivers</string>
+    <string name="clippers_stadium">Staples Center - Los Angeles,CA</string>
+
+    <string name="lakers_date">1947</string>
+    <string name="lakers_coach">Luke Walton</string>
+    <string name="lakers_stadium">Staples Center - Los Angeles,CA</string>
+
+    <string name="memphis_date">1995</string>
+    <string name="memphis_coach">J.B. Bickerstaff</string>
+    <string name="memphis_stadium">FedExForum - Memphis,TN</string>
+
+    <string name="heat_date">1988</string>
+    <string name="heat_coach">Eric Spoelstra</string>
+    <string name="heat_stadium">American Airlines Arena - Miami,FL</string>
+
+    <string name="bucks_date">1968</string>
+    <string name="bucks_coach">Mike Budenholzer</string>
+    <string name="bucks_stadium">Fiserv Forum - Milwaukee,WI</string>
+
+    <string name="timberwolves_date">1989</string>
+    <string name="timberwolves_coach">Tom Thibodeau</string>
+    <string name="timberwolves_stadium">Target Center - Minneapolos,MN</string>
+
+    <string name="pelicans_date">2002</string>
+    <string name="pelicans_coach">Alvin Gentry</string>
+    <string name="pelicans_stadium">Smoothie King Center - New Orleans,LA</string>
+
+    <string name="knicks_date">1946</string>
+    <string name="knicks_coach">David Fizdale</string>
+    <string name="knicks_stadium">Madison Square Garden - New York,NY</string>
+
+    <string name="thunder_date">1967</string>
+    <string name="thunder_coach">Billy Donovan</string>
+    <string name="thunder_stadium">Chesapake Energy Arena - Oklahoma City,OK</string>
+
+    <string name="magic_date">1989</string>
+    <string name="magic_coach">Steve Clifford</string>
+    <string name="magic_stadium">Amway Center - Orlando,FL</string>
+
+    <string name="sixers_date">1946</string>
+    <string name="sixers_coach">Brett Brown</string>
+    <string name="sixers_stadium">Wells Fargo Center - Philadelphia,PA</string>
+
+    <string name="suns_date">1968</string>
+    <string name="suns_coach">Igor Kokoskov</string>
+    <string name="suns_stadium">Talking Stick Resort Arena - Phoenix,AZ</string>
+
+    <string name="blazers_date">1970</string>
+    <string name="blazers_coach">Terry Stotts</string>
+    <string name="blazers_stadium">Moda Center - Portland,QR</string>
+
+    <string name="kings_date">1923</string>
+    <string name="kings_coach">Dave Joerger</string>
+    <string name="kings_stadium">Golden 1 Center - Sacremento,CA</string>
+
+    <string name="spurs_date">1967</string>
+    <string name="spurs_coach">Gregg Popovich</string>
+    <string name="spurs_stadium">AT&amp;T Center - San Antonio,TX</string>
+
+    <string name="raptors_date">1995</string>
+    <string name="raptors_coach">Nick Nurse</string>
+    <string name="raptors_stadium">Scotiabank Arena - Toronto,Canada</string>
+
+    <string name="jazz_date">1974</string>
+    <string name="jazz_coach">Quin Snyder</string>
+    <string name="jazz_stadium">Vivint Smart Home Arena - Salt Lake City,UT</string>
+
+    <string name="wizards_date">1961</string>
+    <string name="wizards_coach">Scott Brooks</string>
+    <string name="wizards_stadium">Capital One Arena - Washington,DC</string>
+
+
+    <!-- END OF TEAM INFO -->
+
+    <!-- STANDINGS INFO -->
+
+    <string name="toronto_name">Raptors</string>
+    <string name="toronto_rank">1</string>
+    <string name="toronto_win">15</string>
+    <string name="toronto_loss">4</string>
+
+    <string name="milwaukee_name">Bucks</string>
+    <string name="milwaukee_rank">2</string>
+    <string name="milwaukee_win">13</string>
+    <string name="milwaukee_loss">4</string>
+
+    <string name="memphis_name">Grizzlies</string>
+    <string name="memphis_rank">3</string>
+    <string name="memphis_win">12</string>
+    <string name="memphis_loss">5</string>
+
+    <string name="blazzer_name">Blazzers</string>
+    <string name="blazzer_rank">4</string>
+    <string name="blazzer_win">12</string>
+    <string name="blazzer_loss">6</string>
+
+    <string name="sixers_name">Sixers</string>
+    <string name="sixers_rank">5</string>
+    <string name="sixers_win">13</string>
+    <string name="sixers_loss">7</string>
+
+    <string name="clippers_name">Clippers</string>
+    <string name="clippers_rank">6</string>
+    <string name="clippers_win">11</string>
+    <string name="clippers_loss">6</string>
+
+    <string name="thunder_name">Thunder</string>
+    <string name="thunder_rank">7</string>
+    <string name="thunder_win">11</string>
+    <string name="thunder_loss">6</string>
+
+    <string name="warriors_name">Warriors</string>
+    <string name="warriors_rank">8</string>
+    <string name="warriors_win">12</string>
+    <string name="warriors_loss">7</string>
+
+    <string name="nuggets_name">Nuggets</string>
+    <string name="nuggets_rank">9</string>
+    <string name="nuggets_win">11</string>
+    <string name="nuggets_loss">7</string>
+
+    <string name="pacers_name">Pacers</string>
+    <string name="pacers_rank">10</string>
+    <string name="pacers_win">11</string>
+    <string name="pacers_loss">7</string>
+
+    <string name="lakers_name">Lakers</string>
+    <string name="lakers_rank">11</string>
+    <string name="lakers_win">10</string>
+    <string name="lakers_loss">7</string>
+
+    <string name="rockets_name">Rockets</string>
+    <string name="rockets_rank">12</string>
+    <string name="rockets_win">9</string>
+    <string name="rockets_loss">7</string>
+
+    <string name="pelicans_name">Pelicans</string>
+    <string name="pelicans_rank">13</string>
+    <string name="pelicans_win">10</string>
+    <string name="pelicans_loss">8</string>
+
+    <string name="kings_name">Kings</string>
+    <string name="kings_rank">14</string>
+    <string name="kings_win">10</string>
+    <string name="kings_loss">8</string>
+
+    <string name="pistons_name">Pistons</string>
+    <string name="pistons_rank">15</string>
+    <string name="pistons_win">8</string>
+    <string name="pistons_loss">7</string>
+
+    <string name="hornets_name">Hornets</string>
+    <string name="hornets_rank">16</string>
+    <string name="hornets_win">9</string>
+    <string name="hornets_loss">8</string>
+
+    <string name="celtics_name">Celtics</string>
+    <string name="celtics_rank">17</string>
+    <string name="celtics_win">9</string>
+    <string name="celtics_loss">9</string>
+
+    <string name="magic_name">Magic</string>
+    <string name="magic_rank">18</string>
+    <string name="magic_win">9</string>
+    <string name="magic_loss">9</string>
+
+    <string name="mavericks_name">Mavericks</string>
+    <string name="mavericks_rank">19</string>
+    <string name="mavericks_win">8</string>
+    <string name="mavericks_loss">9</string>
+
+    <string name="spurs_name">Spurs</string>
+    <string name="spurs_rank">20</string>
+    <string name="spurs_win">8</string>
+    <string name="spurs_loss">9</string>
+
+    <string name="jazz_name">Jazz</string>
+    <string name="jazz_rank">21</string>
+    <string name="jazz_win">8</string>
+    <string name="jazz_loss">10</string>
+
+    <string name="nets_name">Nets</string>
+    <string name="nets_rank">22</string>
+    <string name="nets_win">8</string>
+    <string name="nets_loss">11</string>
+
+    <string name="timberwolves_name">Timberwolves</string>
+    <string name="timberwolves_rank">23</string>
+    <string name="timberwolves_win">7</string>
+    <string name="timberwolves_loss">11</string>
+
+    <string name="heat_name">Heat</string>
+    <string name="heat_rank">24</string>
+    <string name="heat_win">6</string>
+    <string name="heat_loss">11</string>
+
+    <string name="wizards_name">Wizards</string>
+    <string name="wizards_rank">25</string>
+    <string name="wizards_win">6</string>
+    <string name="wizards_loss">11</string>
+
+    <string name="bulls_name">Bulls</string>
+    <string name="bulls_rank">26</string>
+    <string name="bulls_win">5</string>
+    <string name="bulls_loss">13</string>
+
+    <string name="knicks_name">Knicks</string>
+    <string name="knicks_rank">27</string>
+    <string name="knicks_win">5</string>
+    <string name="knicks_loss">14</string>
+
+    <string name="suns_name">Suns</string>
+    <string name="suns_rank">28</string>
+    <string name="suns_win">3</string>
+    <string name="suns_loss">14</string>
+
+    <string name="hawks_name">Hawks</string>
+    <string name="hawks_rank">29</string>
+    <string name="hawks_win">3</string>
+    <string name="hawks_loss">15</string>
+
+    <string name="cavs_name">Cavs</string>
+    <string name="cavs_rank">30</string>
+    <string name="cavs_win">2</string>
+    <string name="cavs_loss">14</string>
+
+    <!-- END OF STANDINGS INFO -->
+
+    <!-- TEAMS HISTORY -->
+
+    <string name="atlanta_history">In 1948, the cities of Moline and Rock Island, IL, and Davenport, IA—collectively known as the Tri-Cities at the time—were awarded a team in the National Basketball League. The team was nicknamed the Blackhawks, who, like Chicago\'\s hockey team, were named after the Sauk Indian Chief Black Hawk. When the team moved to Milwaukee in 1951, the nickname was shortened to Hawks. The franchise retained the shortened moniker for subsequent moves to St. Louis and finally Atlanta in 1968.</string>
+    <string name="boston_history">Team owner Walter Brown personally chose Celtics over Whirlwinds, Olympians, and Unicorns (yes, Unicorns) as the nickname for Boston\'\s Basketball Association of America team in 1946. Despite the warnings of one of his publicity staffers, who told Brown, "No team with an Irish name has ever won a damned thing in Boston," Brown liked the winning tradition of the nickname; the New York Celtics were a successful franchise during the 1920s.</string>
+    <string name="brooklyn_history">The New Jersey Americans joined the American Basketball Association in 1967 and moved to New York the following season. The team was renamed the New York Nets, which conveniently rhymed with Jets and Mets, two of the Big Apple\’\s other professional franchises. Before the 1977-78 season, the team returned to New Jersey but kept its nickname. In 1994, the Nets were reportedly considering changing their nickname to the Swamp Dragons to boost its marketing efforts. The franchise relocated to Brooklyn in 2012.</string>
+    <string name="charlotte_history">Where did Hornets come from? In 1987, George Shinn and his ownership group announced that Spirit would be the nickname of Charlotte\’\s prospective expansion franchise. Fans voiced their displeasure, and it didn\’\t help that some fans associated the nickname with the PTL Club, a Charlotte-based evangelical Christian television program that was the subject of an investigative report by the Charlotte Observer for its fundraising activities. Shinn decided to sponsor a name-the-team contest and had fans vote on six finalists. More than 9000 ballots were cast and Hornets won by a landslide, beating out Knights, Cougars, Spirit, Crowns, and Stars. Afterwards, Shinn noted that the nickname had some historical significance; during the Revolutionary War, a British commander reportedly referred to the area around Charlotte as a "hornet\’\s nest of rebellion."</string>
+    <string name="chicago_history">According to the Chicago Bulls Encyclopedia, team owner Richard Klein was brainstorming nicknames for his new franchise in 1966 and wanted a name that portrayed Chicago\’\s status as the meat capital of the world. Another theory is that Klein admired the strength and toughness of bulls. Klein was considering Matadors and Toreadors when his young son exclaimed, "Dad, that\’\s a bunch of bull!" The rest is somewhat dubious history.</string>
+    <string name="cleveland_history">Fans voted Cavaliers the team nickname in 1970 in a poll conducted by the Cleveland Plain-Dealer. The other finalists included Jays, Foresters, Towers, and Presidents. The Presidents nickname was presumably an allusion to the fact that seven former U.S. Presidents were born in Ohio, second only to Virginia. Jerry Tomko, who suggested Cavaliers in the contest, wrote, "Cavaliers represent a group of daring fearless men, whose life pact was never surrender, no matter what the odds." (Tomko\’\s son, Brett, went on to become a Major League pitcher.)</string>
+    <string name="dallas_history">A Dallas radio station sponsored a name-the-team contest and recommended the finalists to team owner Donald Carter, who ultimately chose Mavericks over Wranglers and Express. The 41 fans who suggested Mavericks each won a pair of tickets to the season opener and one of those fans, Carla Springer, won a drawing for season tickets. Springer, a freelance writer, said the nickname "represents the independent, flamboyant style of the Dallas people." That\’\s certainly an apt description for current team owner Mark Cuban.</string>
+    <string name="denver_history">Denver\’\s ABA team was originally known as the Rockets. When the team was preparing to move to the NBA in 1974, they needed a new nickname, as Rockets was already claimed by the franchise in Houston. Nuggets, an allusion to the city\’\s mining tradition and the Colorado Gold Rush during the late 1850s and early 1860s, was chosen via a name-the-team contest.</string>
+    <string name="detroit_history">The Pistons trace their roots to Fort Wayne, Indiana, where they were known as the Zollner Pistons. (Best logo ever.) What\’\s a Zollner Piston? A piston manufactured by then-team owner Fred Zollner, who named the club after his personal business. When the team moved to Detroit in 1957, Zollner dropped his name from the nickname but retained Pistons. The name was fitting for the Motor City.</string>
+    <string name="goldenstate_history">The Philadelphia Warriors, named after the 1920s team that played in the American Basketball League, won the championship in the inaugural 1946-47 season of the Basketball Association of America. The Warriors moved from Philadelphia to San Francisco after the 1961-62 season and retained their nickname. When the team relocated across the Bay to Oakland in 1971, they were renamed the Golden State Warriors.</string>
+    <string name="houston_history">The Houston Rockets originally called San Diego home. Rockets was chosen via a name-the-team contest and was a reference to the city\’\s theme, "A City In Motion." Liquid-fueled Atlas rockets were also being manufactured in San Diego. When the team moved to Houston in 1971, it made perfectly good sense to keep the name, as Houston was home to a NASA space center.</string>
+    <string name="indiana_history">According to Michael Leo Donovan\’\s book on team nicknames, Yankees to Fighting Irish: What\’\s Behind Your Favorite Team\’\s Name, the Pacers\’\ nickname was decided upon in 1967 by the team\’\s original investors, including attorney Richard Tinkham. The nickname is a reference to Indiana\’\s rich harness and auto racing history. Pacing describes one of the main gaits for harness racing, while pace cars are used for auto races, such as the Indianapolis 500.</string>
+    <string name="clippers_history">When the NBA\’\s Buffalo Braves moved to San Diego in 1978, the owners wanted to rebrand the team with a new nickname. They settled on Clippers, a popular type of ship during the 19th century. San Diego had been home to the Conquistadors/Sails of the ABA during the 1970s. Donald Sterling bought the Clippers during the 1981-82 season and relocated them to his native Los Angeles in 1984. He lost all respect in San Diego but kept the Clippers name.</string>
+    <string name="lakers_history">How many natural lakes are there in Los Angeles? The short answer: Less than 10,000. When a pair of investors relocated the Detroit Gems of the National Basketball League to Minneapolis before the 1947 season, they sought a name that would ring true with the team\’\s new home. Given that Minnesota is "The Land of 10,000 Lakes," they settled on Lakers. When the Lakers moved to Los Angeles before the 1960 season, their nickname was retained, in part because of the tradition the team had established in Minnesota.</string>
+    <string name="memphis_history">When Vancouver was awarded an expansion franchise in 1994 to begin play the following season, the team\’\s owners had tentative plans to name the team the Mounties. The Royal Mounted Canadian Police and fans alike objected, so team officials resumed their search for a name. The local newspaper sponsored a name-the-team contest, which club officials monitored before choosing Grizzlies, an indigenous species to the area, over Ravens. When the team relocated to Memphis before the 2001-02 season, FedEx was prepared to offer the Grizzlies $100 million to rename the team the Express, but the NBA rejected the proposal.</string>
+    <string name="milwaukee_history">Despite Wisconsin\’\s hunting tradition, the most popular entry in the contest to name Milwaukee\’\s NBA franchise wasn\’\t Bucks. It was Robins. The judges overruled the public and decided on a more indigenous (and much stronger) name. The choice could have been much worse: Skunks was among the other entries.</string>
+    <string name="miami_history">In October 1986, the owners of Miami\’\s expansion franchise selected Stephanie Freed\’\s Heat submission from more than 20,000 entries, which also included Sharks, Tornadoes, Beaches, and Barracudas.</string>
+    <string name="minnesota_history">The ownership group for Minnesota\’\s prospective franchise chose Timberwolves through a name-the-team contest in 1986. The nickname beat out Polars by a 2-1 margin in the final vote, which was conducted in 333 of the state\’\s 842 city councils. Tim Pope, who was one of the first fans to nominate Timberwolves, won a trip to the NBA All-Star Game. Pope submitted 10 nicknames in all, including Gun Flints. "I thought a two-word name would win," he told a reporter. The most popular entry in the contest was Blizzard, but the team wanted a nickname that was more unique to its home state. "Minnesota is the only state in the lower 48 with free-roaming packs of timber wolves," a team official said.</string>
+    <string name="neworleans_history">Soon after Tom Benson purchased the New Orleans Hornets in 2012, the team announced they were going to change their name. According to Yahoo\’\s Marc J. Spears, they "considered the nicknames Krewe (groups of costumed paraders in the annual Mardi Gras carnival in New Orleans) and Brass," but settled on Pelicans—after the brown pelican, Louisiana\’\s state bird.</string>
+    <string name="newyork_history">The term "Knickerbockers" referred specifically to pants rolled up just below the knee by Dutch settlers in the New World during the 1600s. Many of these settlers found homes in and around New York City, where a cartoon drawing of Father Knickerbocker became a prominent symbol of the city. In 1845, baseball\’\s first organized team was nicknamed the Knickerbocker Nine and the name was evoked again in 1946 when New York was granted a franchise in the Basketball Association of America. Team founder Ned Irish reportedly made the decision to call the team the Knickerbockers—supposedly after pulling the name out of a hat.</string>
+    <string name="oklahomacity_history">When the Seattle SuperSonics relocated to Oklahoma City after the 2007-08 season, fans voted on potential nicknames from an original list of 64 possibilities. Thunder was chosen over Renegades, Twisters, and Barons, and the name was extremely well received. The team set sales records for the first day after the nickname was revealed. "There\’\s just all kinds of good thunder images and thoughts, and the in-game experience of Thunder," team chairman Clay Bennett told reporters. The SuperSonics had been named for the Supersonic Transport (SST) project, which had been awarded to Boeing. The company has a large plant in the Seattle area.</string>
+    <string name="orlando_history">When the Orlando Sentinel sponsored a name-the-team contest for Orlando\’\s prospective expansion franchise, Challengers—an allusion to the space shuttle that crashed in 1986—was the most popular suggestion. Other entries included Floridians, Juice, Orbits, Astronauts, Aquamen, and Sentinels, but the panel of judges, including Orlando team officials who reviewed the suggestions, decided to go with Magic. The name is an obvious nod to the tourism-rich city\’\s main attraction, Disney World.</string>
+    <string name="philadelphia_history">The Syracuse Nationals were relocated to the City of Brotherly Love in 1963 and the team was renamed the 76ers, an allusion to the signing of the Declaration of Independence in Philadelphia in 1776.</string>
+    <string name="phoenix_history">General manager Jerry Colangelo, only 28 at the time, settled on a name for his expansion franchise using a name-the-team contest in 1968. Colangelo chose Suns over Scorpions, Rattlers, and Thunderbirds, among the other suggestions included in the 28,000 entries. One lucky fan won $1,000 and season tickets as part of the contest, which included such obscure entries as White Wing Doves, Sun Lovers, Poobahs, Dudes, and Cactus Giants.</string>
+    <string name="portland_history">In 1970, Portland was granted an expansion franchise in the NBA and team officials announced a name-the-team contest. Of the more than 10,000 entries, Pioneers was the most popular, but was ruled out because nearby Lewis Clark College was already using the nickname. Another popular entry was Trail Blazers, whose logo is supposed to represent five players on one team playing against five players from another team.</string>
+    <string name="sacramento_history">The Kings\’\ royal lineage stretches all the way back to the founding of the National Basketball League\’\s Rochester Royals in 1945. The Royals retained their nickname after a move to Cincinnati in 1957 and became the Kansas City-Omaha Kings (soon dropping the Omaha) through a name-the-team contest in 1972. The name remained unchanged when the franchise relocated to California in 1985.</string>
+    <string name="sanantonio_history">A group of San Antonio investors purchased the Dallas Chaparrals from the American Basketball Association in 1973 and decided to hold a public contest to rename the team. Five thousand entries with over 500 names were submitted. After reconsidering their first decision to call the team the Aztecs (several teams already used that name), the judges (investors and local press representatives) settled on Spurs. It may have just been a coincidence that one of the team\’\s main investors, Red McCombs, was born in Spur, Texas.</string>
+    <string name="toronto_history">The ownership group of Toronto\’\s prospective expansion team conducted extensive marketing research across Canada in 1994 and held a nationwide vote that helped team officials come up with a list of potential nicknames. Raptors, which Jurassic Park helped popularize the year before, was eventually chosen over runners-up Bobcats and Dragons.</string>
+    <string name="utah_history">No, Utah isn\’\t known for its Jazz. The team originated in New Orleans in 1974 and club officials decided to keep the name after relocating to Salt Lake City in 1979. The Jazz nickname was originally chosen through a name-the-team contest, which produced seven other finalists: Dukes, Crescents, Pilots, Cajuns, Blues, Deltas, and Knights. Deltas would\’\ve translated to Salt Lake City rather well (the airline of the same name has a hub there), while Cajuns may have been even worse than Jazz.</string>
+    <string name="washington_history">In the early 1990s, Washington Bullets owner Abe Pollin was becoming frustrated with the association of his team\’\s nickname and gun violence. After Pollin\’\s friend, Israeli Prime Minister Yitzhak Rabin, was assassinated, Pollin decided to take action and announced his plans to rename the team. (Though Dan Steinberg of D.C. Sports Bog wrote a very detailed history of the name change, and called into question the impact Rabin\’\s death had on the decision.)
+    A name-the-team contest was held and fans voted on a list of finalists that included Wizards, Dragons, Express, Stallions, and Sea Dogs. Not long after Wizards was announced as the winning name before the 1997-98 season, the local NAACP chapter president complained that the nickname carried Ku Klux Klan associations. Previous nicknames for the franchise when they were still in Chicago include Packers and Zephyrs.
+    </string>
+
+    <!-- END OF TEAMS HISTORY -->
+
+    <string name="title_one">Wade, LeBron Meet in the Last Seconds of Final Match-Up | December 10, 2018</string>
+    <string name="video_description_one">Watch the top plays down the stretch from a thrilling final meeting between LeBron James and Dwyane Wade at Staples Center.</string>
+    <string name="url_one">_ADaUKjxyVM</string>
+
+    <string name="title_two">NBA\'\s Best Assists | Week 8 | State Farm</string>
+    <string name="video_description_two">Check out the best assists from week 7 of the 2018-2019 NBA season presented by State Farm, including Ben Simmons, Nikola Jokic and more!</string>
+    <string name="url_two">iHZo2Vp9SXg</string>
+
+    <string name="title_three">Jimmy Butler\'\s Best Offensive Highlights | Philadelphia 76ers | 2018-19 NBA Season</string>
+    <string name="video_description_three">Check out some of Philadelphia 76ers guard Jimmy Butler\'\s best offensive highlights.</string>
+    <string name="url_three">0FQPlCo774E</string>
+
+    <string name="title_four">LeBron\'\s 42 Points Leads Lakers to 4th Consecutive Win | December 5, 2018</string>
+    <string name="video_description_four">LeBron James scored 42 points to lead the Lakers past San Antonio for their 4th straight win.</string>
+    <string name="url_four">Nl--b78uHVE</string>
+
+    <string name="title_five">NBA\'\s Best Plays | Week 7</string>
+    <string name="video_description_five">Check out the best plays from week 7 of the 2018-2019 NBA Season!</string>
+    <string name="url_five">mjPIqgSwzE0</string>
+
+    <!-- NBA HISTORY -->
+
+    <string name="history_title_1">1. Creation and BAA–NBL merger (1946–1956)</string>
+    <string name="history_desc_1">The Basketball Association of America was founded in 1946 by owners of the major ice hockey arenas in the Northeastern and Midwestern United States and Canada. On November 1, 1946, in Toronto, Ontario, Canada, the Toronto Huskies hosted the New York Knickerbockers at Maple Leaf Gardens, in a game the NBA now refers to as the first played game in NBA history. The first basket was made by Ossie Schectman of the Knickerbockers. Although there had been earlier attempts at professional basketball leagues, including the American Basketball League and the NBL, the BAA was the first league to attempt to play primarily in large arenas in major cities. During its early years, the quality of play in the BAA was not significantly better than i competing leagues or among leading independent clubs such as the Harlem Globetrotters. For instance, the 1948 ABL finalist Baltimore Bullets moved to the BAA and won that league\'s 1948 title, and the 1948 NBL champion Minneapolis Lakers won the 1949 BAA title. Prior to the 1948–49 season, however, NBL teams from Fort Wayne, Indianapolis, Minneapolis, and Rochester jumped to the BAA, which established the BAA as the league of choice for
+        collegians looking to turn professional. On August 3, 1949, the remaining NBL teams–Syracuse, Anderson, Tri-Cities, Sheboygan, Denver, and Waterloo–merged into the BAA. In deference to the merger and to avoid possible legal complications, the league name was changed to the present National Basketball Association, even though the merged league retained the BAA's governing body, including Podoloff.[7] To this day, the NBA claims the BAA's history as its own. It now reckons the arrival of the NBL teams as an expansion, not a merger, and does not recognize NBL records and statistics.
+        The new league had seventeen franchises located in a mix of large and small cities,[8] as well as large arenas and smaller gymnasiums and armories. In 1950, the NBA consolidated to eleven franchises, a process that continued until 1953–54, when the league reached its smallest size of eight franchises: the New York Knicks, Boston Celtics, Philadelphia Warriors, Minneapolis Lakers, Rochester Royals, Fort Wayne Pistons, Tri-Cities Blackhawks, and Syracuse Nationals, all of which remain in the league today. The process of contraction saw the league's smaller-city franchises move to larger cities. The Hawks shifted from the Tri-Cities to Milwaukee in 1951, and then to St. Louis in 1955. The Rochester Royals moved from Rochester, New York, to Cincinnati in 1957 and the Pistons relocated from Fort Wayne, Indiana, to Detroit in 1957.
+    </string>
+
+    <string name="history_title_2">2. Celtics\' dominance, league expansion and competition (1956–1979)</string>
+    <string name="history_desc_2">
+        In 1957, rookie center Bill Russell joined the Boston Celtics, which already featured guard Bob Cousy and coach Red Auerbach, and went on to lead the club to eleven NBA titles in thirteen seasons. Center Wilt Chamberlain entered the league with the Warriors in 1959 and became a dominant individual star of the 1960s, setting new single game records in scoring (100) and rebounding (55). Russell\'s rivalry with Chamberlain became one of the greatest rivalries in the history of American team sports. Bill Russell defending against Wilt Chamberlain in 1966.
+        The 1960s were dominated by the Celtics. Led by Russell, Bob Cousy and coach Red Auerbach, Boston won eight straight championships in the NBA from 1959 to 1966. This championship streak is the longest in NBA history. They did not win the title in 1966–67, but regained it in the 1967–68 season and repeated in 1969. The domination totaled nine of the ten championship banners of the 1960s.
+        Through this period, the NBA continued to evolve with the shift of the Minneapolis Lakers to Los Angeles, the Philadelphia Warriors to San Francisco, the Syracuse Nationals to Philadelphia to become the Philadelphia 76ers, and the St. Louis Hawks moving to Atlanta, as well as the addition of its first expansion franchises. The Chicago Packers (now Washington Wizards) became the ninth NBA team in 1961. From 1966 to 1968, the league expanded from 9 to 14 teams, introducing the Chicago Bulls, Seattle SuperSonics (now Oklahoma City Thunder), San Diego Rockets (who relocated to Houston four years later), Milwaukee Bucks, and Phoenix Suns.
+        In 1967, the league faced a new external threat with the formation of the American Basketball Association (ABA). The leagues engaged in a bidding war. The NBA landed the most important college star of the era, Kareem Abdul-Jabbar (then known as Lew Alcindor). However, the NBA's leading scorer, Rick Barry, jumped to the ABA, as did four veteran referees—Norm Drucker, Earl Strom, John Vanak, and Joe Gushue. In 1969, Alan Siegel, who oversaw the design of Jerry Dior's Major League Baseball logo a year prior, created the modern NBA logo inspired by the MLB's. It incorporates the silhouette of the legendary Jerry West based on a photo by Wen Roberts, although NBA officials denied a particular player as being its influence because, according to Siegel, "They want to institutionalize it rather than individualize it. It's become such a ubiquitous, classic symbol and focal point of their identity and their licensing program that they don't necessarily want to identify it with one player." The iconic logo debuted in 1971 (with a small change to the typeface on the NBA wordmark in 2017) and would remain a fixture of the NBA brand.
+    </string>
+
+    <string name="history_title_3">3. Surging popularity (1979–1998)</string>
+    <string name="history_desc_3">
+        The league added the ABA\'s innovative three-point field goal beginning in 1979 to open up the game. That same year, rookies Larry Bird and Magic Johnson joined the Boston Celtics and Los Angeles Lakers respectively, initiating a period of significant growth in fan interest in the NBA throughout the country and the world. The two had faced each other in the 1979 NCAA Division I Basketball Championship Game, and they later played against each other in three NBA Finals (1984, 1985, and 1987, featuring 11 players and coaches who would later be inducted to the Basketball Hall of Fame). Like the 1960s, when the Celtics and Lakers faced each other in six NBA Finals, the two teams again dominated the NBA. In the 10 seasons of the 1980s, Johnson led the Lakers to five titles in eight Finals while Bird led the Celtics to three titles in five Finals. Also in the early 1980s, the NBA added one more expansion franchise, the Dallas Mavericks, bringing the total to 23 teams. Later on, Larry Bird won the first
+        three three-point shooting contests. Former league commissioner David Stern, who took office on February 1, 1984, oversaw the expansion and growth of the NBA to a global commodity. Michael Jordan going in for a dunk
+        Michael Jordan entered the league in 1984 with the Chicago Bulls, providing an even more popular star to support growing interest in the league. This resulted in more cities demanding teams of their own. In 1988 and 1989, four cities got their wishes as the Charlotte Hornets, Miami Heat, Orlando Magic, and Minnesota Timberwolves made their NBA debuts, bringing the total to 27 teams. The Detroit Pistons won the back-to-back in 1989 and 1990, led by coach Chuck Daly and guard Isiah Thomas. Jordan and Scottie Pippen led the Bulls to two three-peats in eight years during the 1991–98 seasons. Hakeem Olajuwon won back-to-back titles with the Houston Rockets in 1994 and 1995.
+        The 1992 Olympic basketball Dream Team, the first to use current NBA stars, featured Michael Jordan as the anchor, along with Bird, Johnson, David Robinson, Patrick Ewing, Scottie Pippen, Clyde Drexler, Karl Malone, John Stockton, Chris Mullin, Charles Barkley, and star NCAA amateur Christian Laettner. The team was elected to the Naismith Memorial Basketball Hall of Fame, while 11 of the 12 players on the roster (all but Laettner) and three of the four coaches have been elected to the Hall of Fame as individuals.
+        In 1995, the NBA expanded to Canada with the addition of the Vancouver Grizzlies and the Toronto Raptors. In 2001, the Vancouver Grizzlies relocated to Memphis, which left the Raptors as the only Canadian team in the NBA.
+        In 1996, the NBA created a women's league, the Women's National Basketball Association (WNBA).
+        In 1998, the NBA owners began a lockout which lasted 191 days and was settled on January 18, 1999. As a result of this lockout the 1998–99 NBA season was reduced from 82 to 50 games (61% of a normal season), and the All-Star Game was cancelled. The San Antonio Spurs won their first championship, and first by a former ABA team, by beating the New York Knicks, who were the first, and are the only, eighth seed to ever make it to the NBA Finals.
+    </string>
+
+    <string name="history_title_4">4. Modern era (1998–present)</string>
+    <string name="history_desc_4">
+        Since the breakup of the Chicago Bulls championship roster in the summer of 1998, the Western Conference has dominated. The Los Angeles Lakers of coach Phil Jackson and the San Antonio Spurs of Gregg Popovich combined to make 13 Finals in 16 seasons, with 10 titles. Tim Duncan and David Robinson won the 1999 championship with the Spurs, and Shaquille O\'Neal and Kobe Bryant started the 2000s with three consecutive championships for the Lakers. The Spurs reclaimed the title in 2003 against the Nets. In 2004, the Lakers returned to the Finals, only to lose in five games to the Detroit Pistons.
+        Dirk Nowitzki and John Wall in action as the Dallas Mavericks face the Washington Wizards in 2011
+        After the Spurs took home the Larry O\'Brien Championship Trophy in 2005, the 2006 Finals featured two franchises making their inaugural Finals appearances. The Miami Heat, led by their star shooting guard, Dwyane Wade, and Shaquille O\'Neal, who had been traded from the Lakers during summer 2004, won the series over the Dallas Mavericks in six after losing the first two games. The Lakers/Spurs dominance continued in 2007 with a four-game sweep by the Spurs over the Cleveland Cavaliers, who were led by LeBron James. The 2008 Finals saw a rematch of the league\'s highest profile rivalry, the Boston Celtics and Los Angeles Lakers, with the Celtics winning, for their 17th championship, thanks to their new big three of Paul Pierce, Ray Allen, and Kevin Garnett.
+        In 2009, Kobe Bryant and the Lakers returned to the Finals, this time defeating the Dwight Howard-led Orlando Magic. Bryant won his first Bill Russell NBA Finals Most Valuable Player Award in his 13th season after leading the Lakers to their first NBA championship since the departure of Shaquille O'Neal.
+        The 2010 NBA All-Star Game was held at Cowboys Stadium in front of the largest crowd ever, 108,713. At the end of that season, the Celtics and the Lakers renewed their rivalry from 2008 when they met again in the NBA Finals for a record 12th time. The Lakers won the title by winning Game 7, 83–79. Before the start of the 2010–11 season the NBA had an exciting summer with one of the most anticipated free agent classes of all time. Two of which signed, and one resigned, with the Miami Heat, leading to a season that was heavily centered on their eventual success or failure at taking home the championship. The Heat, led by LeBron James, Dwyane Wade, and Chris Bosh, did in fact make the Finals against the Dallas Mavericks, in a rematch for the franchises of the 2006 Finals. The Mavericks, led by Dirk Nowitzki (the eventual NBA Finals MVP), took the series in six games. This was the Mavericks' first title. Veterans Shawn Marion, Jason Kidd, Jason Terry, and Peja Stojaković celebrated their first
+        NBA championship.
+    </string>
+    <string name="recruit_btn">Recruit your friends</string>
+
+    <!-- END OF NBA HISTORY -->
+
+
+</resources>
